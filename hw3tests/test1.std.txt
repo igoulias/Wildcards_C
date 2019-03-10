@@ -1,0 +1,11 @@
+page?.html
+	word: page1.html, replacement: 1
+	word: page2.html, replacement: 2
+	word: page3.html, replacement: 3
+Skipping *age*
+*.html
+	word: page1.html, replacement: page1
+	word: page2.html, replacement: page2
+	word: page3.html, replacement: page3
+Skipping *.*
+Skipping ?age*

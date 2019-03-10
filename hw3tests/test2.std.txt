@@ -1,0 +1,18 @@
+tri*ty
+	word: triviality, replacement: viali
+	word: trinity, replacement: ni
+hello*
+	word: hello, replacement: 
+	word: helloworld, replacement: world
+h*d
+	word: helloworld, replacement: elloworl
+h*o
+	word: hello, replacement: ell
+*y
+	word: elementary, replacement: elementar
+	word: triviality, replacement: trivialit
+	word: trinity, replacement: trinit
+hel?o
+	word: hello, replacement: l
+hello?
+he?o

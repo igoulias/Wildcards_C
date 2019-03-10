@@ -1,0 +1,16 @@
+elementary
+triviality
+hello
+helloworld
+trinity
+END
+tri*ty
+hello*
+h*d
+h*o
+*y
+hel?o
+hello?
+he?o
+END
+

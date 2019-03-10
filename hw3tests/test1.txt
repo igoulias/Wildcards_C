@@ -1,0 +1,14 @@
+page1.html
+page2.html
+page3.html
+image1.jpg
+image2.jpg
+agent
+page
+END
+page?.html
+*age*
+*.html
+*.*
+?age*
+END

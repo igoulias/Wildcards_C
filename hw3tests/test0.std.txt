@@ -1,0 +1,8 @@
+*1.file
+	word: page1.file, replacement: page
+	word: image1.file, replacement: image
+Skipping page?.*
+page?.file
+	word: page1.file, replacement: 1
+	word: page2.file, replacement: 2
+Skipping page

@@ -1,0 +1,15 @@
+filenamehavingthemaximumlength32
+Asmallerone.1.txt
+Asmallerone.2.txt
+bigtxt.txt.txt
+myproject.txt
+a
+b
+ab
+END
+*
+?
+Asmallerone.?.txt
+*.txt
+a*
+END

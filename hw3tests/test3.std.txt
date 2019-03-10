@@ -1,0 +1,23 @@
+*
+	word: filenamehavingthemaximumlength32, replacement: filenamehavingthemaximumlength32
+	word: Asmallerone.1.txt, replacement: Asmallerone.1.txt
+	word: Asmallerone.2.txt, replacement: Asmallerone.2.txt
+	word: bigtxt.txt.txt, replacement: bigtxt.txt.txt
+	word: myproject.txt, replacement: myproject.txt
+	word: a, replacement: a
+	word: b, replacement: b
+	word: ab, replacement: ab
+?
+	word: a, replacement: a
+	word: b, replacement: b
+Asmallerone.?.txt
+	word: Asmallerone.1.txt, replacement: 1
+	word: Asmallerone.2.txt, replacement: 2
+*.txt
+	word: Asmallerone.1.txt, replacement: Asmallerone.1
+	word: Asmallerone.2.txt, replacement: Asmallerone.2
+	word: bigtxt.txt.txt, replacement: bigtxt.txt
+	word: myproject.txt, replacement: myproject
+a*
+	word: a, replacement: 
+	word: ab, replacement: b

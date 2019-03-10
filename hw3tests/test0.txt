@@ -1,0 +1,9 @@
+page1.file
+page2.file
+image1.file
+END
+*1.file
+page?.*
+page?.file
+page
+END
