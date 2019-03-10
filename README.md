@@ -4,6 +4,8 @@ A program implemented in C that gets input wildcards like * or ? and a string an
 For example let the folder contain: page1.html page2.html page3.html files
 Then for input page?.html the output will be: page1.html page2.html page3.html
 
+More information in hw3.pdf and hw3graphic.pdf
+
 The program uses struct in order to find which part of the input needs to be replaced to match the files.
 
 How to run: <br/>
